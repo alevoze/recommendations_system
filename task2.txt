@@ -1,0 +1,63 @@
+Hubungan antara probabilitas dengan statistical inference sangat sederhananya yaitu hubungan proses-hasil atau sebab-akibat,
+maksudnya adalah kita bisa menggunakan statistical inference sebagai landasan untuk menyimpulkan sesuatu saat kita tau bagaimana distribusi probabilitasnya.
+
+Implementasi diperusahaan, kasusnya produk Saling Jaga:
+Probabilitas dari produk saling jaga:
+1. waktu saat ini 02.00 pagi tanggal 18-januari-2021.
+2. dana terkumpul 9.930.907.006
+3. jumlah anggota 656.264
+
+waktu setelah 1 jam berlalu:
+1. waktu saat ini 03.00 pagi tanggal 18-januari-2021
+2. dana terkumpul= 9.931.200.006
+3. jumlah anggota= 656.274
+
+Sampel 1 jam dari durasi 24 jam(1 hari):
+1. jumlah dana dalam 1 jam= 293.000
+2. jumlah anggota dalam 1 jam= 10
+
+Jadi dari probabilitas yang ada dengan prinsip statistical inferences:
+1. Minimal dalam 1 jam dana terkumpul= 293.000
+2. Minimal dalam 1 jam anggota bergabung= 10
+
+Jika dalam waktu 1 hari(24 jam):
+1. Minimal dana 293.000 x 24= 7.032.000
+2. Minimal Anggota 10 x 24= 240
+
+Jika dalam waktu 1 bulan (rata-rata 30 hari):
+1. Minimal dana 7.032.000 x 30= 210.960.000
+2. Minimal anggota 240 x 30= 7.200
+
+jika dalam 1 tahun (12 bulan):
+1. Minimal dana 210.960.000 x 12= 2.531.520.000
+2. Minimal anggota 7.200 x 12= 86.400
+
+Product Saling Jaga Kesehatan dimulai 28-Jun-2019,
+28-Jun-2019 sampai 28-Jun-2020 (1 tahun yang lalu):
+1. Prediksi Minimal dana= 2.531.520.000
+2. Prediksi Minimal anggota= 86.400
+
+28-Jun-2019 sampai 28-January-2021(sekarang):
+1. Prediksi Minimal dana = 4.008.240.000
+2. Prediksi Minimal anggota = 136800
+
+Namun Kenyataannya Sekarang:
+1. Jumlah Dana Terkumpul= 9.931.200.006
+2. JUmlah Anggota Terkumpul= 656.274
+
+Hasil persentase kenaikan Sejak 28/Jun/2019 - Sekarang:
+1. Dana:
+Terkumpul 4.008.240.000 sampai 9.931.200.006= 147.77%
+Perbedaan 4.008.240.000 sampai 9.931.200.006= 5.922.960.006
+
+2. Anggota:
+Terkumpul 136800 sampai 656.274= 379.73%
+Perbedaan 136800 sampai 656.274= 519.474
+
+Kesimpulannya product Saling Jaga dipakai secara masal dan mendapat dana yang terus bertumbuh pesat, serta berpotensi untuk dikembangkan di bidang selain Kesehatan, berdasarkan urgensinya antara lain:
+
+1. Saling Jaga Kelaparan (Stunting, Busung lapar, dll)
+2. Saling Jaga Pendidikan (Akses Pendidikan, Beasiswa pendidikan, Kegiatan Positif pendidikan, dll)
+3. Saling Jaga Mental (Konseling Korban Pelecehan Sexsual, Percobaan Bunuh diri, Bullying, dll)
+4. Saling Jaga Sampah & Lingkungan (Reward kebiasaan meminimalisir sampah setiap bulan)
+5. Saling Jaga Impian (Bantuan dana Pelatihan & Course, Dana kompetisi-kompetisi)
